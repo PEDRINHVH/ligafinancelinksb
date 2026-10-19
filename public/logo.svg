@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Link Finance">
+  <!-- PLACEHOLDER: substitua este arquivo pela logo circular oficial da Link Finance
+       (mesmo nome de arquivo, ou ajuste o src em Header.jsx e Footer.jsx). -->
+  <circle cx="48" cy="48" r="46" fill="#000000" stroke="#E8C060" stroke-width="2.5" />
+  <text x="48" y="58" text-anchor="middle" font-family="Archivo, Arial, sans-serif" font-weight="800" font-size="30" letter-spacing="2" fill="#E8C060">LF</text>
+</svg>
